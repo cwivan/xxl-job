@@ -1,1 +1,1 @@
-only for learn cron job 
+cron job from xxl-job, add some features
